@@ -1,0 +1,19 @@
+{
+  "creators": [
+    {
+      "affiliation": "ANULUM",
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851"
+    }
+  ],
+  "description": "Architecture-only repository validation tooling and design for the datasets, spike encoders and spike codecs, as one repository of the SC-NeuroCore split. No dataset loader, input encoder, spike codec, moved SC-NeuroCore code or registered record format is released.",
+  "keywords": [
+    "spike encoding",
+    "spike codecs",
+    "neuromorphic datasets",
+    "evidence provenance"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "title": "SC-NC Data",
+  "upload_type": "software"
+}
