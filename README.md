@@ -12,6 +12,8 @@ SC-NC-DATA — repository foundation
 
 SC-NC Data is being built as the data layer split out of SC-NeuroCore: dataset manifests, the encoders that turn signals into spikes, the codecs that compress spike streams without loss, and the event datasets and sensor sources they draw on. It imports SC-NC Core, SC-NC Catalogue and SC-NC Engine. This checkout contains repository validation tooling and documentation only. Full foundation qualification is in progress. There is no installed dataset loader, input encoder, spike codec or qualified record schema.
 
+SC-NC Data is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 **What does not exist yet:**
 - any code moved from SC-NeuroCore;
 - a registered runtime record schema;

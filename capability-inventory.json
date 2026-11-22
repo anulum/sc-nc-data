@@ -2,11 +2,11 @@
   "capabilities": [],
   "claims": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "qualified_owned_schema_ids": [],
   "repository_name": "SC-NC-DATA",
   "source_metadata": {
     "path": "repository-domain.json",
-    "sha256": "ede75cfca517d5c9193ce845cdcb908c618b58a8c2c2a016dbeeb034020ff317"
+    "sha256": "78983bca50778c4aa1bcfeb9126b67709af56d1ee03bb3309c5caf5a34a0632d"
   }
 }
